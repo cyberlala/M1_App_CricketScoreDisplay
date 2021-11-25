@@ -1,4 +1,7 @@
 # M1_App_CricketScoreDisplay
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8a7fe5f7bd1b4a2d9c23281eee906a35)](https://app.codacy.com/gh/cyberlala/M1_App_CricketScoreDisplay?utm_source=github.com&utm_medium=referral&utm_content=cyberlala/M1_App_CricketScoreDisplay&utm_campaign=Badge_Grade_Settings)
+
 Mini Project On C language 
 
 
